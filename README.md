@@ -5,9 +5,9 @@ PhonePe has become one of the most popular digital payment platforms in India, w
 We create a web app to analyse the Phonepe transaction and users depending on various Years, Quarters, States, and Types of transaction and give a Geographical and Geo visualization output based on given requirements.
 
 " Disclaimer:-This data between 2018 to 2022 in INDIA only "
-#Developer Guide
+# Developer Guide
 
-##1. Tools install
+## 1. Tools install
 virtual code.
 Jupyter notebook.
 Python 3.11.0 or higher.
